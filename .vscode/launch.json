@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProductOfArray",
+            "request": "launch",
+            "mainClass": "ProductOfArray",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubString",
+            "request": "launch",
+            "mainClass": "LongestSubString",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddLinkedLists",
+            "request": "launch",
+            "mainClass": "AddLinkedLists",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Merge",
+            "request": "launch",
+            "mainClass": "Merge",
+            "projectName": "PracticeSpace_eb14b76c"
+        }
+    ]
+}
