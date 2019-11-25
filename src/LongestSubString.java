@@ -34,21 +34,21 @@ public class LongestSubString {
 
         return max;
 
-        String maxWord = "";
-        for (int i = 0; i < s.length() - 1; i++) {
-            String word = s.substring(i, i + 1);
-            for (int j = i + 1; j < s.length(); j++) {
-                if (word.contains(s.substring(j, j + 1))) {
-                    break;
-                } else {
-                    word += s.substring(j, j + 1);
-                }
-            }
-            if (word.length() > maxWord.length()) {
-                maxWord = word;
-            }
-        }
+        // String maxWord = "";
+        // for (int i = 0; i < s.length() - 1; i++) {
+        //     String word = s.substring(i, i + 1);
+        //     for (int j = i + 1; j < s.length(); j++) {
+        //         if (word.contains(s.substring(j, j + 1))) {
+        //             break;
+        //         } else {
+        //             word += s.substring(j, j + 1);
+        //         }
+        //     }
+        //     if (word.length() > maxWord.length()) {
+        //         maxWord = word;
+        //     }
+        // }
 
-        return maxWord.length();
+        // return maxWord.length();
     }
 }

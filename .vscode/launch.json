@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Urlify",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.Urlify",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IdenticalCharCount",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.IdenticalCharCount",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Unique",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.Unique",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestPalindrome",
             "request": "launch",
             "mainClass": "LongestPalindrome",
