@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestPalindrome",
+            "request": "launch",
+            "mainClass": "LongestPalindrome",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IsPalindrome",
             "request": "launch",
             "mainClass": "IsPalindrome",
