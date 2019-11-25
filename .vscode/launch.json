@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CompressString",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.CompressString",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneAway",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.OneAway",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PalindromePermutation",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.PalindromePermutation",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Urlify",
             "request": "launch",
             "mainClass": "CrackingTheCoding.Chapter1.Urlify",
