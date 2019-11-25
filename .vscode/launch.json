@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RotateMatrix",
+            "request": "launch",
+            "mainClass": "CrackingTheCoding.Chapter1.RotateMatrix",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CompressString",
             "request": "launch",
             "mainClass": "CrackingTheCoding.Chapter1.CompressString",
