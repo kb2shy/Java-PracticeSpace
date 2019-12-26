@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringToInteger",
+            "request": "launch",
+            "mainClass": "StringToInteger",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RotateMatrix",
             "request": "launch",
             "mainClass": "CrackingTheCoding.Chapter1.RotateMatrix",
