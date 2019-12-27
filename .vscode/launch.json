@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringToInteger2",
+            "request": "launch",
+            "mainClass": "StringToInteger2",
+            "projectName": "PracticeSpace_eb14b76c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringToInteger",
             "request": "launch",
             "mainClass": "StringToInteger",
