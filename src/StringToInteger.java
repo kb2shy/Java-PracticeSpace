@@ -14,8 +14,10 @@ class StringToInteger {
     }
 
     public static int myAtoi(String str) {
+        
+        char[] strArray = str.trim().toCharArray();
+        
         String regex = "\\d";
-        char[] strArray = str.toCharArray();
         String newNumberString = "";
         for (int i = 0; i < strArray.length; i++) {
             if (Pattern.matches(regex, Character.toString(strArray[i])) || 
